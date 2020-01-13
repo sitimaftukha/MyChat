@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1027117002815",
+    "firebase_url": "https://mychatgroupsiti.firebaseio.com",
+    "project_id": "mychatgroupsiti",
+    "storage_bucket": "mychatgroupsiti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027117002815:android:f7f73b5c1ce9ffb43e088a",
+        "android_client_info": {
+          "package_name": "com.siti.groupchatsiti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027117002815-vniunc97fdng7gbi496jtsatbgb4dgnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOqLGZKUgBPeBahBPY6J9vGbgZ9e4UW2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027117002815-vniunc97fdng7gbi496jtsatbgb4dgnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

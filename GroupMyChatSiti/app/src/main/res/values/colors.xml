@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#512c62</color>
+    <color name="colorPrimaryDark">#110133</color>
+    <color name="colorAccent">#9656a1</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="color_white">#FFFFFF</color>
+
+    <color name="mate_blue">#31353E</color>
+    <color name="light_mate_blue">#9099a8</color>
+
+    <color name="blueOrigin">#5482FC</color>
+    <color name="blueSecond">#132551</color>
+    <color name="blueSoft">#EAEFF9</color>
+    <color name="silver">#9F9F9F</color>
+    <color name="black">#080909</color>
+    <color name="tabsScrollColor">#3F51B5</color>
+</resources>

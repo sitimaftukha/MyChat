@@ -1,0 +1,22 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:drawable="@drawable/gradient_first"
+            android:duration="3500" />
+
+    <item
+            android:drawable="@drawable/gradient_second"
+            android:duration="3500" />
+
+    <item
+            android:drawable="@drawable/gradient_third"
+            android:duration="3500" />
+
+    <item
+            android:drawable="@drawable/gradient_four"
+            android:duration="3500" />
+
+    <item
+            android:drawable="@drawable/gradient_five"
+            android:duration="3500" />
+
+</animation-list>
